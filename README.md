@@ -4,8 +4,6 @@ Aplicación inicial de comercio electrónico con React, Vite, Tailwind CSS, comp
 
 Repositorio público: https://github.com/DanteDGRTX/LAB-13-DJANGO
 
-Informe del laboratorio: [docs/GLAB-S13-JMIRANDA-2026-02_FINAL.docx](docs/GLAB-S13-JMIRANDA-2026-02_FINAL.docx)
-
 ## Estructura
 - `frontend/`: interfaz React, componentes reutilizables, filtro de categorías y servicio HTTP.
 - `backend/`: proyecto Django, aplicación de catálogo, modelos, API REST y administración.
