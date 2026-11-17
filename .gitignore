@@ -1,0 +1,14 @@
+.venv/
+venv*/
+node_modules/
+dist/
+__pycache__/
+*.py[cod]
+*.sqlite3
+.env
+.env.*
+!.env.example
+.DS_Store
+build_report.py
+docs/*_COMPLETADO.docx
+/docs/capturas/
